@@ -1,0 +1,50 @@
+/* Header, footer */
+header,footer{
+	background-color:#8B4513;	
+}
+MAIN{
+	background:#000080;
+}
+img{
+	border-radius: 170px 0px 155px 0px;
+}
+
+/*menu*/
+#nav{
+padding: 10px 0 5px 0;
+text-align: center;
+list-style-type: none;
+font-family: Arvo ,serif;
+font-size: 22px;
+fext-transfore: uppercase; 
+}
+#nav li{
+    display: inline;
+    margin-left: 10px;
+}
+#nav a{
+	text-decoration: none;
+	color: #B22222;
+	padding: 5px 10px;
+	font-weight: bold;
+	display: inline-block;
+}
+#nav a:hover{
+	background: #000080;
+	color: White;
+    border-radius: 200px 200px 200px 200px 
+}
+h1{
+	color: #008080;
+	text-align:center;
+}
+h2{
+	color: #008080;
+	text-align:center;
+}
+.carousel a:hover {
+    background: #4B0082;
+}
+.carousel{
+	border: 7px solid #8B0000;
+}
